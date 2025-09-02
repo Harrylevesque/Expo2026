@@ -1,12 +1,12 @@
 # Expo2026
 
 sept 1 2025
-welcome to my science fair project diarey
-this year, after a great sucess for my first year at a science fair, i will be making sonething very interesting
-i am planning to make a log in systemment for security and ease of use
-the concept is that there is no passwords
+## welcome to my science fair project diarey
+    this year, after a great sucess for my first year at a science fair, i will be making sonething very interesting
+    i am planning to make a log in systemment for security and ease of use
+    the concept is that there is no passwords
 
-the plan
+### the plan
     create a system for loging in using a simple qr code scan
     i will need to
         create a secure envierment on my vps
@@ -24,24 +24,32 @@ the plan
 
 
 
-todo list (please enter date then in a tabbed form enter tasks)
+### todo list 
 
-idea parapgraph ( please enter date and idea)
+*(please enter date then in a tabbed form enter tasks)*
 
-completed feature list
+### idea parapgraph 
 
-upcoming feature list
+*( please enter date and idea)*
 
-sources ( please enter url page name and date of visiting)
+### completed feature list
 
-code explication ( please enter file and explication and important sectors)
+### upcoming feature list
 
-file structure
+###sources 
 
-ideas for presentation
+*( please enter url page name and date of visiting)*
 
-how to use
+code explication 
 
-system setup / backend "how to use"
+* ( please enter file and explication and important sectors) *
 
-ideas for science fair report
+### file structure
+
+### ideas for presentation
+
+### how to use
+
+### system setup / backend "how to use"
+
+### ideas for science fair report
