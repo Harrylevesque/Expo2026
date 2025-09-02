@@ -1,31 +1,90 @@
 # Expo2026
 
-sept 1 2025
 ## welcome to my science fair project diarey
-    this year, after a great sucess for my first year at a science fair, i will be making sonething very interesting
-    i am planning to make a log in systemment for security and ease of use
-    the concept is that there is no passwords
+sept 1 2025
+
+this year, after a great sucess for my first year at a science fair, i will be making sonething very interesting
+i am planning to make a log in systemment for security and ease of use
+the concept is that there is no passwords
+
+sept 2 2025
+i have a list of things i want to put in my project, and listed all of my major steps, i will enter the tasks to be done under it with the date
+
 
 ### the plan
-    create a system for loging in using a simple qr code scan
-    i will need to
-        * create a secure envierment on my vps
-        * create a dynamic session storer ( not a db storing cookies)
-        * create a generation software for making the wr codes the end user will use to log in
-        * find a way to keep it rotating all of the time with different data
-        * create a mobile inteeface for scanning the special qr code
-        * make the phone do some authing and cracking based on info about the device and what it scanned on the qr code
-        * create a heartbeat system for enshuring no device swapping man in the middle ect
-        * create the responce mechsnism
-        * find a way to stay logged in and continussly ensure no changes in the device, none of the stuff could be live session hacked
-        a bunch more things
+create a system for loging in using a simple qr code scan
+i will need to: 
+* create a secure envierment on my vps
+* create a dynamic session storer ( not a db storing cookies)
+* create a generation software for making the wr codes the end user will use to log in
+* find a way to keep it rotating all of the time with different data
+* create a mobile inteeface for scanning the special qr code
+* make the phone do some authing and cracking based on info about the device and what it scanned on the qr code
+* create a heartbeat system for enshuring no device swapping man in the middle ect
+* create the responce mechsnism
+* find a way to stay logged in and continussly ensure no changes in the device, none of the stuff could be live session hacked
+a bunch more things
 
 
 
 
 
-### todo list 
-*(please enter date then in a tabbed form enter tasks)*
+# Todo list 
+*(please enter date then in a tabbed form enter tasks for each feature)*
+
+## Features of the Secure QR + Passkey System
+## Security & Identity
+* Biometric authentication via device-native passkeys (Face ID, Touch ID, Android Biometrics).
+* Each QR code tied to a unique identity record.
+* Optional integration with certificates or encrypted creator signatures.
+* On-device secure enclave usage for keys (no raw passwords).
+
+## Mobile App
+
+* Scan special QR codes (optimized for 64×64 / high-density encoding).
+* Validate authenticity of scanned codes against backend.
+Secure login via passkeys (no password entry).
+Offline-first mode: store scans until connectivity is available.
+Simple UI: “Scan”, “History”, “Profile”.
+
+## Backend System
+* API server for verifying QR codes and user authentication.
+* Written in Python (FastAPI/Django) or Go (Gin/Fiber).
+* Stores user accounts, event logs, and code validity in a secure database.
+* Uses JWT or session tokens for app <-> server communication.
+* Built-in rate limiting and API key protection.
+* Logging & audit trail of all access attempts.
+
+## Database & Storage
+* User identity database (UUIDs, biometrics linked via device, not stored directly).
+* QR code metadata (who issued it, when, validity).
+* Encrypted at rest (AES-256) and in transit (TLS).
+* Optional certificate/authority layer for trusted code issuance.
+
+## QR Code Layer
+* Compact 64×64 encoding for efficient scanning.
+* Encodes database ID + page ID + creator certificate ID.
+* Error correction for real-world scanning (smudges, partial scans).
+* Can optionally embed timestamps or expiration logic.
+
+## Security Features
+* Zero password model: relies only on passkeys + secure device biometrics.
+* Codes signed digitally to prevent forgery.
+* Tamper-proof data storage (chip-level secure enclave on device).
+* Audit trail for every scanned or generated QR code.
+
+## Infrastructure & Deployment
+* Lightweight VPS deployment (2 cores, 2 GB RAM, 80 GB storage).
+* Dockerized backend for reproducibility.
+* Reverse proxy (NGINX/Caddy) with HTTPS (Let’s Encrypt).
+* Scalable later to Kubernetes / cloud if needed.
+
+## Science Fair Demonstration
+* Prototype backend (Python or Go) running live on VPS.
+* Mobile demo app that scans special QR codes.
+* Simulation of identity checks (no real face data needed).
+* Visual dashboard: show QR validity checks, logs, and passkey login flow.
+* Optional “attack mode” demo (fake QR code gets rejected).
 
 
 ### idea parapgraph 
