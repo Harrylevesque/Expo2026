@@ -36,11 +36,11 @@ sept 1 2025
 
 ### upcoming feature list
 
-###sources 
+### sources 
 
 *( please enter url page name and date of visiting)*
 
-code explication 
+### code explication 
 
 * ( please enter file and explication and important sectors) *
 
