@@ -25,31 +25,38 @@ sept 1 2025
 
 
 ### todo list 
-
 *(please enter date then in a tabbed form enter tasks)*
 
-### idea parapgraph 
 
-*( please enter date and idea)*
+### idea parapgraph 
+*(please enter date and idea)*
+
 
 ### completed feature list
 
+
 ### upcoming feature list
 
-### sources 
 
-*( please enter url page name and date of visiting)*
+### sources 
+*(please enter url page name and date of visiting)*
+
 
 ### code explication 
+*(please enter file and explication and important sectors)*
 
-* ( please enter file and explication and important sectors) *
 
 ### file structure
 
+
 ### ideas for presentation
+
 
 ### how to use
 
+
 ### system setup / backend "how to use"
 
+
 ### ideas for science fair report
+
