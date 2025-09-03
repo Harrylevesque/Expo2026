@@ -1,6 +1,7 @@
 # Expo2026
 
 ## welcome to my science fair project diarey
+
 sept 1 2025
 
 this year, after a great sucess for my first year at a science fair, i will be making sonething very interesting
@@ -10,6 +11,9 @@ the concept is that there is no passwords
 sept 2 2025
 i have a list of things i want to put in my project, and listed all of my major steps, i will enter the tasks to be done under it with the date
 
+sept 3 2025
+i found my guide teacher for the science fair, she is also doing a local science fair with her classes of sec 1, i will tag along for the science fair when we go to lapoc in the end of febuary. 
+I remember last year how i needed to scramble through all the websites i used for wrighting my report. I DONT want that to happen again
 
 ### the plan
 create a system for loging in using a simple qr code scan
@@ -43,9 +47,9 @@ a bunch more things
 
 * Scan special QR codes (optimized for 64×64 / high-density encoding).
 * Validate authenticity of scanned codes against backend.
-Secure login via passkeys (no password entry).
-Offline-first mode: store scans until connectivity is available.
-Simple UI: “Scan”, “History”, “Profile”.
+* Secure login via passkeys (no password entry).
+* Offline-first mode: store scans until connectivity is available.
+* Simple UI: “Scan”, “History”, “Profile”.
 
 ## Backend System
 * API server for verifying QR codes and user authentication.
