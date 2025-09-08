@@ -15,6 +15,9 @@ sept 3 2025
 i found my guide teacher for the science fair, she is also doing a local science fair with her classes of sec 1, i will tag along for the science fair when we go to lapoc in the end of febuary. 
 I remember last year how i needed to scramble through all the websites i used for wrighting my report. I DONT want that to happen again
 
+sept 7 2025
+started making my flow charts and completed the first : the regeneration flow. 
+
 ### the plan
 create a system for loging in using a simple qr code scan
 i will need to: 
