@@ -28,6 +28,7 @@ I have made the executive desision that i will use a wrapper for the mobile app,
 
 also i will be condensing the 40+files of my entire project into only a few:
 
+<pre>
 slqrpdf/
 ├── cmd/
 │   └── server/
@@ -57,6 +58,7 @@ slqrpdf/
 │
 ├── go.mod
 └── go.sum
+</pre>
 
 the code repo will update within a few days
 
