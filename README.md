@@ -2,6 +2,9 @@
 
 ## welcome to my science fair project diarey
 
+* please note that the readme will be updated evrey few days as i make major advances in the code.
+* also note that not the entire document will be filled out automagically and will advace over the course of the science fair project
+
 sept 1 2025
 
 this year, after a great sucess for my first year at a science fair, i will be making sonething very interesting
@@ -17,6 +20,45 @@ I remember last year how i needed to scramble through all the websites i used fo
 
 sept 7 2025
 started making my flow charts and completed the first : the regeneration flow. 
+
+sept 10 2025
+today i tried to change the way that K *(key to use to encrypt D with a pq algo)* and D*(the device bound key wich will be used to encrypt the actuall important stuff and sign chalenger)* are generated. i tried multiple pq algos like "Dilithium" and "Kyber" wich was not ideal for the attempt to use web assembly. 
+
+I have made the executive desision that i will use a wrapper for the mobile app, i will make the bare minimum swift and koltyn and it will just launch one of my gomobile binaries wich will start a web server with my interface in html css and will have its own go server to do the local processing and send back to the backends server
+
+also i will be condensing the 40+files of my entire project into only a few:
+
+slqrpdf/
+├── cmd/
+│   └── server/
+│       └── main.go              # Entry point, starts backend server
+│
+├── internal/
+│   ├── api.go                   # HTTP/gRPC handlers, QR endpoints
+│   ├── crypto.go                # PQC wrappers (Kyber, Dilithium, etc.)
+│   ├── core.go                  # protocol flow, session mgmt
+│   ├── storage.go               # JSON/.json.enc storage
+│   ├── config.go                # load/save encrypted configs
+│   └── utils.go                 # logging, hashing, misc helpers
+│
+├── internal/mobile/             # all gomobile-related code
+│   ├── export.go                # gomobile exported functions
+│   ├── parse.go                 # parsing data from the scaned qr codes
+│   ├── read.go                  # reading qr codes shown
+│   ├── static.go                # the aforementioned web setver / main app gui
+│   └── terminal.go              # interaction with device terminal/console
+│
+├── storage/
+│   ├── users/                   # per-user encrypted JSON files
+│   │   └── <user-id>.json.enc
+│   ├── images/                  # uploaded/scanned images
+│   │   └── <hash>.jpg
+│
+│
+├── go.mod
+└── go.sum
+
+the code repo will update within a few days
 
 ### the plan
 create a system for loging in using a simple qr code scan
