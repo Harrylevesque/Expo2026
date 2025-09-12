@@ -53,7 +53,7 @@ slqrpdf/
 │   ├── users/                   # per-user encrypted JSON files
 │   │   └── <user-id>.json.enc
 │   ├── images/                  # uploaded/scanned images
-│   │   └── <hash>.jpg
+│   └── └── <hash>.jpg
 │
 │
 ├── go.mod
@@ -61,6 +61,10 @@ slqrpdf/
 </pre>
 
 the code repo will update within a few days
+
+sept 11
+restructured the code base and created over 250 tasks for the entire project code. this exclude actuall science fair prep like reports, keyosks and paperwork.
+also created multiple different binarys for the users, the 3rd pary services that will use SLQRPDF. 
 
 ### the plan
 create a system for loging in using a simple qr code scan
