@@ -66,6 +66,13 @@ sept 11
 restructured the code base and created over 250 tasks for the entire project code. this exclude actuall science fair prep like reports, keyosks and paperwork.
 also created multiple different binarys for the users, the 3rd pary services that will use SLQRPDF. 
 
+sept 12
+today i tried to calculate the time for the project just for fun and i was worried by my calcs...
+coding, testing and debugging : ~300h
+wrighting report, paperwork, keyosk and all of that : 20h
+
+great. 
+
 ### the plan
 create a system for loging in using a simple qr code scan
 i will need to: 
