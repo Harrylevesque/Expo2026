@@ -28,6 +28,8 @@ I have made the executive desision that i will use a wrapper for the mobile app,
 
 also i will be condensing the 40+files of my entire project into only a few:
 
+
+
 <pre>
 slqrpdf/
 ├── cmd/
@@ -72,6 +74,11 @@ coding, testing and debugging : ~300h
 wrighting report, paperwork, keyosk and all of that : 20h
 
 great. 
+
+sept 13
+today i added all routes but did not create the functions it calles, also did not add the appropreate request types. 
+* so excited for the project to pop off *
+i know it is soon so i should really get going
 
 ### the plan
 create a system for loging in using a simple qr code scan
