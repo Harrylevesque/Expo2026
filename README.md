@@ -80,6 +80,11 @@ today i added all routes but did not create the functions it calles, also did no
 * so excited for the project to pop off *
 i know it is soon so i should really get going
 
+sept 14
+today i started making the account creation final's version, using real post quantum algos and device bound secrets
+
+
+
 ### the plan
 create a system for loging in using a simple qr code scan
 i will need to: 
