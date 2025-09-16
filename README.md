@@ -83,6 +83,8 @@ i know it is soon so i should really get going
 sept 14
 today i started making the account creation final's version, using real post quantum algos and device bound secrets
 
+sept 15
+got stuck on a dumb bug connecting my js to my golang user backend, it does not seem to actually send over the info needed and just stops working
 
 
 ### the plan
