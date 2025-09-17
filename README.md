@@ -86,6 +86,14 @@ today i started making the account creation final's version, using real post qua
 sept 15
 got stuck on a dumb bug connecting my js to my golang user backend, it does not seem to actually send over the info needed and just stops working
 
+sept 16
+continued on sept 14th work:
+<pre>
+
+  sept 14
+  today i started making the account creation final's version, using real post quantum algos and device bound secrets
+  
+</pre>
 
 ### the plan
 create a system for loging in using a simple qr code scan
