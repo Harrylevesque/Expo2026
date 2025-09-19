@@ -95,6 +95,9 @@ continued on sept 14th work:
   
 </pre>
 
+sept 18
+continued yesterday's work
+
 ### the plan
 create a system for loging in using a simple qr code scan
 i will need to: 
