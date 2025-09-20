@@ -98,6 +98,9 @@ continued on sept 14th work:
 sept 18
 continued yesterday's work
 
+sept 19
+struggled with evcrypting local secret with a PQC safe algorithm 
+
 ### the plan
 create a system for loging in using a simple qr code scan
 i will need to: 
