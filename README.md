@@ -101,6 +101,10 @@ continued yesterday's work
 sept 19
 struggled with evcrypting local secret with a PQC safe algorithm 
 
+sept 20
+continued trying to get circl/kyber1024 to work.
+as i am wrighting this, i just got an idea. the problem is that for security reasons i keep thr public key on all devices that can use that account and the private secret is different for all devices. so if i just make the server side generate a key pair and ditch the provate key and each device creates a pair and ditches the public key then we have a kay pair. will attempt tomorrow. 
+
 ### the plan
 create a system for loging in using a simple qr code scan
 i will need to: 
