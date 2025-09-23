@@ -107,6 +107,10 @@ as i am writing this, i just got an idea. the problem is that for security reaso
 
 sept 21
 continuing on yesterday's idea. it seems that this idea might work
+
+sept 22
+continue on yesterday's stuff
+
 ### the plan
 create a system for loging in using a simple qr code scan
 i will need to: 
