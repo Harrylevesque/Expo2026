@@ -111,6 +111,9 @@ continuing on yesterday's idea. it seems that this idea might work
 sept 22
 continue on yesterday's stuff
 
+sept 23
+attempted to clean up code and dealed with spontaneous failing
+
 ### the plan
 create a system for loging in using a simple qr code scan
 i will need to: 
