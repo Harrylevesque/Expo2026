@@ -114,6 +114,11 @@ continue on yesterday's stuff
 sept 23
 attempted to clean up code and dealed with spontaneous failing
 
+sept 27
+today i decided to switch to python. i was overwhelmed by the golang version and it could make for a great year 2 version, anyway, i think that it feels better to use python because it actually makes sense and i need to look at docs a lot less. the repo is at
+
+# https://github.com/Harrylevesque/SuperSL2
+----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
 i will need to: 
