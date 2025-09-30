@@ -1,5 +1,9 @@
 # Expo2026
 
+current code is at :
+# https://github.com/Harrylevesque/SuperSL2
+
+
 ## welcome to my science fair project diarey
 
 * please note that the readme will be updated evrey few days as i make major advances in the code.
@@ -117,7 +121,16 @@ attempted to clean up code and dealed with spontaneous failing
 sept 27
 today i decided to switch to python. i was overwhelmed by the golang version and it could make for a great year 2 version, anyway, i think that it feels better to use python because it actually makes sense and i need to look at docs a lot less. the repo is at
 
-# https://github.com/Harrylevesque/SuperSL2
+https://github.com/Harrylevesque/SuperSL2
+
+sept 28
+worked on the usercreation and recovery bu using a passphrase / list of words and a checksum
+
+sept 29
+today i worked on service creation and linking a user to a service
+i am finding this a lot better, i feel more in controll of what i am doing and less at the mercy of my reaserch
+i also realises that the repo i listed 2 days ago was private, it is now public, please look at it and give your feedback
+
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
