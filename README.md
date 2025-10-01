@@ -131,6 +131,8 @@ today i worked on service creation and linking a user to a service
 i am finding this a lot better, i feel more in controll of what i am doing and less at the mercy of my reaserch
 i also realises that the repo i listed 2 days ago was private, it is now public, please look at it and give your feedback
 
+sept 30
+today i applied for a mentorship
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
