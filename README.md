@@ -133,6 +133,9 @@ i also realises that the repo i listed 2 days ago was private, it is now public,
 
 sept 30
 today i applied for a mentorship
+
+oct 1
+continued on sept 29's work
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
