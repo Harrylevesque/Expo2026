@@ -139,6 +139,9 @@ continued on sept 29's work
 
 oct2
 crested a account with oracle cloud and trued to setup a vps for this project. i am basicly waiting for. spot to open with 4ocpus and 24 gb ram
+
+oct 3
+attempted to  continue user and service creation
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
