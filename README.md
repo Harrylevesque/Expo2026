@@ -145,6 +145,9 @@ attempted to  continue user and service creation
 
 oct 4
 continued to setup server hosting. sucseeded at getting a vps but installed an image for a x86 computer instead of aarch64
+
+oct 5
+planned flow for main elements
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
