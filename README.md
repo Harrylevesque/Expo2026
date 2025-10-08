@@ -148,6 +148,8 @@ continued to setup server hosting. sucseeded at getting a vps but installed an i
 
 oct 5 - 6
 planned flow for main elements
+
+worked on creating endpoints for the flow crested yesterday. 
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
