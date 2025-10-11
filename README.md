@@ -154,6 +154,9 @@ worked on creating endpoints for the flow crested yesterday.
 
 oct 8
 did research on best practices for security and user storage
+
+oct 10
+continued linking service into user
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
