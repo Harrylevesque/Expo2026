@@ -157,6 +157,9 @@ did research on best practices for security and user storage
 
 oct 10
 continued linking service into user
+
+oct 14
+started to rewrite signup for secure cryptography. 
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
