@@ -158,7 +158,7 @@ did research on best practices for security and user storage
 oct 10
 continued linking service into user
 
-oct 14
+oct 14 - 15
 started to rewrite signup for secure cryptography. 
 ----------------------------
 ### the plan
