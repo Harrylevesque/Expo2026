@@ -160,6 +160,9 @@ continued linking service into user
 
 oct 14 - 15
 started to rewrite signup for secure cryptography. 
+
+oct 16
+continue to learn security practices 
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
