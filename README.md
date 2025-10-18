@@ -161,7 +161,7 @@ continued linking service into user
 oct 14 - 15
 started to rewrite signup for secure cryptography. 
 
-oct 16
+oct 16-17
 continue to learn security practices 
 ----------------------------
 ### the plan
