@@ -163,6 +163,9 @@ started to rewrite signup for secure cryptography.
 
 oct 16 - 19
 continue to learn security practices 
+
+oct 20
+explored already existing options to see their weeknesses and their methods
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
