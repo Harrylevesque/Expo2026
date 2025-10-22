@@ -166,6 +166,9 @@ continue to learn security practices
 
 oct 20
 explored already existing options to see their weeknesses and their methods
+
+oct 21
+continue to learn security practices 
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
