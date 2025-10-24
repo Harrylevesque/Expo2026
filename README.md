@@ -2,6 +2,7 @@
 
 current code is at :
 # https://github.com/Harrylevesque/SuperSL2
+# https://github.com/Harrylevesque/SuperSLocal2
 
 
 ## welcome to my science fair project diarey
@@ -169,6 +170,10 @@ explored already existing options to see their weeknesses and their methods
 
 oct 21
 continue to learn security practices 
+
+oct 23
+sorry forgot to comit yesterday
+on october 22 i created the local user repo. it currently creates a key pair and can create all of the storage bases that will need to be stored. 
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
