@@ -174,6 +174,9 @@ continue to learn security practices
 oct 23
 sorry forgot to comit yesterday
 on october 22 i created the local user repo. it currently creates a key pair and can create all of the storage bases that will need to be stored. 
+
+oct 24
+continued uppon oct22's work
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
