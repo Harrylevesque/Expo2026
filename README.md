@@ -181,6 +181,9 @@ continued uppon oct22's work
 oct 25
 exp'ored with vps / oci to use with this
 i found that cloudpanel can easily run python apps. will continue to explore
+
+oct 27
+trued to use cloudpanel's pytjon festure to launch. 
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
