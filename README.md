@@ -182,7 +182,7 @@ oct 25
 exp'ored with vps / oci to use with this
 i found that cloudpanel can easily run python apps. will continue to explore
 
-oct 27-28
+oct 27-29
 tried to use cloudpanel's python festure to launch. 
 
 ----------------------------
