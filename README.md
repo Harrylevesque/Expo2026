@@ -185,6 +185,8 @@ i found that cloudpanel can easily run python apps. will continue to explore
 oct 27-29
 tried to use cloudpanel's python festure to launch. 
 
+nov 1
+experimented with cryptography 
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
