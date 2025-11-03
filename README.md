@@ -187,6 +187,9 @@ tried to use cloudpanel's python festure to launch.
 
 nov 1
 experimented with cryptography 
+
+nov 2
+continued working on the client side to make requests to the server side
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
