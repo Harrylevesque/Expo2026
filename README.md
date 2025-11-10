@@ -190,6 +190,9 @@ experimented with cryptography
 
 nov 2
 continued working on the client side to make requests to the server side
+
+nov 9
+created timeline. restarted client side code due to a confusing code base
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
