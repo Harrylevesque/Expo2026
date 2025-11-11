@@ -2,7 +2,7 @@
 
 current code is at :
 # https://github.com/Harrylevesque/SuperSL2
-# https://github.com/Harrylevesque/SuperSLocal2
+# https://github.com/Harrylevesque/SSLocal2.1
 
 
 ## welcome to my science fair project diarey
