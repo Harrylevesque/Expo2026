@@ -196,6 +196,9 @@ created timeline. restarted client side code due to a confusing code base
 
 nov 10
 finished creating users services and serviceusers. attempted to create a passkey manager other than the browser for security reasons
+
+nov 14
+worked on saving user data client side
 ----------------------------
 ### the plan
 create a system for loging in using a simple qr code scan
